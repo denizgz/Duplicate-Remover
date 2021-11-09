@@ -1,6 +1,6 @@
 from DuplicateRemover import DuplicateRemover
 
-dirname = "mercedes-benz-1-nov-cleaning - Kopie"
+dirname = "mercedes-benz-1-nov-cleaning - Kopie\Mercedes-Benz V-Class 2014"
 
 # Remove Duplicates
 dr = DuplicateRemover(dirname)
